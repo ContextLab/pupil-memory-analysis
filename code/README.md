@@ -1,10 +1,10 @@
-To replicate all of the analyses in our manuscript <i>Familiarity alters pupil dilation response to new items</i>:
+#### To replicate all of the analyses in our manuscript <i>Familiarity alters pupil dilation response to new items</i>:
 
-Fisrt, unzip the following files, then remove the original `.zip` files:
+First, unzip the following files, and remove the original `.zip` files:
 + path
 + path
 
-Then, run the code in each of this directory's jupyter notebooks, in numerical order:
+Second, run the code in each of this directory's jupyter notebooks, in numerical order:
 
 + 1_compile_data.ipynb
 + 2_preprocess_data.ipynb
