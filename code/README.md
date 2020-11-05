@@ -11,4 +11,4 @@
 + 3_analyze_data.ipynb
 
 
-<b>Note:</b> Compiling and preprocessing the data can take a while! To skip to the main analyses, you can unzip `behavioral.zip` and `d_nov_b.zip`, then run the code in `3_analyze_data.ipynb`
+<b>Note:</b> If you'd rather skip straight to the main analyses, unzip `behavioral.zip` and `d_nov_b.zip` then run the code in `3_analyze_data.ipynb`
