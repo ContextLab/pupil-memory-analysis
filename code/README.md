@@ -1,5 +1,5 @@
 # To replicate the analyses in our manuscript:  
-<b>EITHER</b>
+<b>EITHER...</b><br />
 <b>Unzip the following files and remove the original `.zip` versions:</b>
 + path
 + path
@@ -10,5 +10,5 @@
 + 2_preprocess_data.ipynb
 + 3_analyze_data.ipynb
 
-<b>OR</b>
+<b>OR</b><br />
 To skip straight to the main analyses, unzip `behavioral.zip` and `d_nov_b.zip` then run `3_analyze_data.ipynb`
