@@ -1,6 +1,6 @@
 # Analysis code: Familiarity alters pupil dilation response to new items
 
-This repository contains all code and data for the plots and analyses in our manuscript <i>Familiarity alters pupil dilation response to new items</i>, currently under review at eLife (https://elifesciences.org/). To replicate our analyses, follow instructions in `code/README.md`.
+This repository contains all of the materials for creating the plots and analyses in our manuscript <i>Familiarity alters pupil dilation response to new items</i>, currently under review at eLife (https://elifesciences.org/). To replicate our analyses, follow instructions in `code/README.md`.
 
 <hr>
 
