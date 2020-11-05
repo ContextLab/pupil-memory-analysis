@@ -1,6 +1,6 @@
 # To replicate the analyses in our manuscript:  
 
-<b>First, unzip the following files and remove the original `.zip` files:</b>
+<b>First, unzip the following files and remove the original `.zip` versions:</b>
 + path
 + path
 
