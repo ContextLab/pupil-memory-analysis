@@ -1,5 +1,4 @@
 # To replicate the analyses in our manuscript:  
-<b>EITHER...</b><br />
 <b>Unzip the following files and remove the original `.zip` versions:</b>
 + path
 + path
