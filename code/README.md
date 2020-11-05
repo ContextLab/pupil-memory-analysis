@@ -9,5 +9,4 @@
 + 2_preprocess_data.ipynb
 + 3_analyze_data.ipynb
 
-<b>OR...</b><br />
-To skip straight to the main analyses, unzip `behavioral.zip` and `d_nov_b.zip` then run `3_analyze_data.ipynb`
+<b>Note:</b> To skip straight to the main analyses, unzip `behavioral.zip` and `d_nov_b.zip` then run `3_analyze_data.ipynb`
