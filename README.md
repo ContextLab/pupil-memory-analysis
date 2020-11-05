@@ -6,3 +6,7 @@ Our sense of remembering (or not remembering) things we encounter is reflected b
 <hr />
 
 #### Article currently under review at eLife (https://elifesciences.org/) 
+
+<hr />
+ 
+ To replicate the plots and analyses in our manuscript, follow the steps in `code/README.md` 
