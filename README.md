@@ -9,6 +9,6 @@ This repository contains all of the materials for creating the analyses and plot
 <i> Keywords: familiarity, recognition memory, pupil dilation response, attention</i>
 <hr>
 
-<b>Figures:</b> 
+<b>Key figure:</b> 
 
 [INSERT]
