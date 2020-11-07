@@ -11,4 +11,4 @@ This repository contains all of the materials for creating the analyses and plot
 
 <b>Key figure:</b> 
 
-[INSERT]
+<center><img style="display: inline" src="paradigm_figure/paradigm_and_key.jpg" alt="Paradigm" width="800"> </center>
