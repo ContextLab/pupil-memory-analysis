@@ -12,4 +12,4 @@
 + 2_preprocess_data.ipynb
 + 3_analyze_data.ipynb
 
-<b>Note:</b> To skip straight to the main analyses, you can simply run `3_analyze_data.ipynb`
+<b>If you would rather skip straight to the main analyses, simply run `3_analyze_data.ipynb` </b> 
