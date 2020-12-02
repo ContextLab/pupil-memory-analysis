@@ -15,4 +15,4 @@
 
 <b>If you would rather skip straight to the main analyses, simply run `3_analyze_data.ipynb` </b> 
 
-<b> Note: We use python datetime package to match up timepoints in our gaze data with our behavioral data. If you are in another timezone, you may run into issues. To get around this, you may opt to briefly set your computer's clock to EST (when running the first notebook) or adjust the datetime package (rersources here: https://docs.python.org/3/library/datetime.html)
+<b> Note:</b> We use python datetime package to match up timepoints in our gaze data with our behavioral data. If you are in another timezone, you may run into issues. To get around this, you may opt to briefly set your computer's clock to EST (when running the first notebook) or adjust the datetime package (rersources here: https://docs.python.org/3/library/datetime.html)
