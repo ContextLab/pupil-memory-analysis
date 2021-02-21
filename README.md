@@ -1,6 +1,6 @@
 # Analyses: Unexpected false feelings of familiarity about faces are associated with increased pupil dilations
 
-This repository contains all of the materials for creating the analyses and plots in our manuscript <i>Familiarity alters pupil dilation response to new items</i> (under review at ....<!--a href ="https://elifesciences.org/">eLife</a-->). To replicate our analyses, see `code/README.md`.
+This repository contains all of the materials for creating the analyses and plots in our manuscript <i>Unexpected false feelings of familiarity about faces are associated with increased pupil dilations</i> (under review at ....<!--a href ="https://elifesciences.org/">eLife</a-->). To replicate our analyses, see `code/README.md`.
 
 <hr>
 
