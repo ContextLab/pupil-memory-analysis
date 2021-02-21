@@ -13,7 +13,7 @@ Our subjective sense that something we encounter is familiar to us is reflected 
 
 #### Article [soon to be?] under review at eLife (https://elifesciences.org/) 
 
-# [Click here](https://github.com/ContextLab/pupil-memory-analysis) to see the data and analyses for this project
+
 
 
 
